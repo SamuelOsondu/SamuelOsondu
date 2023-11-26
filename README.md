@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SamuelOsondu
-- 👀 I’m interested in Backend Web development and App development
-- 🌱 I’m currently learning to be better at doing them and wish to work on Machine learning.
-- 💞️ I’m looking to collaborate on projects circulating backend and App development.
+- 🌱 I’m a Python And Django Developer.
+- 🌱 I'm Proficient with Django Rest Framework
+- 🌱 I have interests in ROS (Robotics Operating System) Development.
+- 💞️ I’m looking to collaborate on projects circulating backend and Robotics development.
 - 📫 You can reach me at https://www.linkedin.com/in/samuelosondupy/
 
 <!---
